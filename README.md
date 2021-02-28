@@ -3,7 +3,7 @@
 2. Sort the cryptocurrencies by market value in descending order
 3. Display relevant attributes, including price", "24-hour change difference", "7-day change difference" and 1-month change difference, 24-hour trading volume and market value.
 
-![avatar](client/public/goal.png)
+![avatar](clients/public/goal.png)
 
 # Tech stack
 - React.js
@@ -80,7 +80,7 @@ Next.js is definitely a must, because it needs to meet a large number of calcula
 
 # Tech stack map to be used in the future
 
-![avatar](client/public/techstackrm.png)
+![avatar](clients/public/techstackrm.png)
 
 In the future, you need to reduce the dom size and configure docker on lixus. Docker takes time to configure.
 
